@@ -1,0 +1,6 @@
+@CodeSolm_backend_HostAddress = http://localhost:5170
+
+GET {{CodeSolm_backend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
